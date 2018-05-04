@@ -17,3 +17,11 @@ When she logged into the app, it asked her about the physical characteristics li
 
 She had a burger as brunch and she’s unhappy about it. She logs into the app and provides the details of her breakfast. Based on these details, the app provides her a list of possible lunch options. She can choose one of these based on her interest for the day. Once she selects one of these options, the app provides her the capability to either order this dish in or find the groceries to cook it herself. She orders the dish to her apartment and closes the app happily.	
 
+How to Setup and Run:
+1. Download the project from the link https://github.com/dhavalaM/CS545-WatchMyNutrition
+2. Make sure that the MongoDB is running on your machine
+3. All dependencies are handled by npm, you need to simply run “$ npm install” command
+on your terminal in the same folder (folder where downloaded project is)
+4. Start the application by running “$ npm start”
+5. You will get the message saying that express server is running on http://localhost:3000
+6. On your web browser, go to http://localhost:3000 to access the website
